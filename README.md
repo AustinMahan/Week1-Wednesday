@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+// AustinMahan!!!
 #Outline for Wednesday 9/16
 - Recap yesterday, go over homework
 - Introduce Arrays
@@ -196,6 +196,3 @@ birds;
 ```
 ##Array Exercise
 Open index.html and main.js follow the instructions in the comments.
-=======
-# Week1-Wednesday
->>>>>>> 9fa869afc8c4686edeba090b61a270486dbd23d1
